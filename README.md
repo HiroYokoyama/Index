@@ -1,2 +1,1 @@
-# Index
-https://github.com/HiroYokoyama/
+# [Index](https://github.com/HiroYokoyama/)
